@@ -1,6 +1,7 @@
 Aplicação ASP.NET Core 8.0 para administração de clientes, utilizando Entity Framework Core e SQLite como banco de dados.
 
 Baixe o ZIP do Repositório em Code > Download ZIP
+
 Antes de rodar o projeto, certifique-se de ter instalado:
 
 .NET SDK 8.0
